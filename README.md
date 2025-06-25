@@ -4,7 +4,7 @@ This project focuses on performing customer segmentation in a financial context 
 
 ---
 
-![Feature_Eng_Map.jpeg](Feature Engineering Map)
+![Alt Text](Feature_Eng_Map.jpg)
 
 ## 📊 Dataset Overview
 
