@@ -4,6 +4,8 @@ This project focuses on performing customer segmentation in a financial context 
 
 ---
 
+![Feature Eng Map.jpg](Feature Engineering Map)
+
 ## 📊 Dataset Overview
 
 The dataset includes customer-level data with the following feature types:
